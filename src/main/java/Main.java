@@ -23,3 +23,4 @@ public class Main {
         System.out.println(firstSum % 2 == 0 || secondSum % 2 == 0);
     }
 }
+
