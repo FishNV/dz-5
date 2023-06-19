@@ -15,8 +15,7 @@ public class Main {
         System.out.println(firstSum < secondSum);
 
         firstSum ++;
-        secondSum --;
-        secondSum --;
+        secondSum -= 2;
 
         System.out.println(firstSum > secondSum);
 
